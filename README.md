@@ -14,7 +14,7 @@ Bienvenido al Taller de IoT con Arduino para datos en tiempo real en la web. Est
 9. [Contacto](#contacto)
 
 ## Inicio Rápido
-1. Clona este repositorio: `git clone https://github.com/tu-usuario/taller-iot-arduino.git`
+1. Clona este repositorio: `git clone https://github.com/luiscarlosbm22/taller-iot-LCBM.git`
 2. Ingresa al directorio del proyecto: `cd taller-iot-LCBM`
 3. Instala las dependencias: `npm install`
 4. Inicia la aplicación: `node server.js`
